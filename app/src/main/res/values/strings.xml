@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">ClickR</string>
+
+
+    <string name="api_activity_reconnecting_title">Reconnecting...</string>
+
+    <string name="enter_ip">Please enter IP and Port of the ClickR server.</string>
+    <string name="title_activity_home">ClickR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_connect">Connect</string>
+
+
+    <!-- Connect  -->
+    <string name="connect_hint_ip">IP-Address</string>
+    <string name="connect_hint_port">Port</string>
+    <string name="connect_action_connect">Connect</string>
+    <string name="connect_connecting_title">Connecting</string>
+    <string name="connect_connecting_message">Establishing connection to the server</string>
+    <string name="connect_invalid_ip">Invalid IP</string>
+    <string name="connect_connection_failed">Could not connect</string>
+    <string name="title_activity_login">Login</string>
+    <string name="connect_re_connecting_message">Re-connecting in %1$d seconds</string>
+    <string name="connect_show_connect">Settings</string>
+    <string name="connect_re_connect_now">re-connect now</string>
+
+    <!-- Login -->
+
+    <string name="login_error_username_too_short">Username is too short</string>
+    <string name="login_error_username_taken">This username is already taken</string>
+    <string name="login_text_welcome">Welcome to ClickR! Please enter a username and a password for your account below.</string>
+    <string name="login_prompt_username">Username</string>
+    <string name="login_prompt_password">Password</string>
+    <string name="login_action_login">Login</string>
+
+
+    <!-- Navigation -->
+    <string name="logout">Logout</string>
+    <string name="open_scenarios">Open Scenarios</string>
+    <string name="scenario_sessions">My Scenarios</string>
+    <string name="coupled_scenarios">Coupled Scenarios</string>
+
+
+    <!-- Scenario sessions -->
+
+    <string name="title_activity_scenario_sessions">Test Scenario</string>
+
+    <!-- Test Scenarios -->
+
+    <string name="test_scenarios_join_title">Joining a scenario</string>
+    <string name="test_scenarios_join_message">Would you like to join this scenario?</string>
+    <string name="test_scenarios_action_join">Join Scenario</string>
+    <string name="test_scenarios_action_cancel">Cancel</string>
+    <string name="test_scenarios_joined_scenario">Joined successfully</string>
+    <string name="test_scenarios_failed_joined_scenario">Joining failed</string>
+    <string name="title_activity_scenario_session">ScenarioSession</string>
+
+    <string name="playback_waiting_session">Loading playback state...</string>
+    <string name="playback_waiting_scenario">Loading test-scenario information</string>
+    <string name="playback_waiting_tracks">Loading tracks</string>
+    <string name="playback_downloading">Downloading tracks</string>
+
+    <string name="scenario_sessions_no_sessions">No Sessions yet. Open one by clicking on a scenario.</string>
+    <string name="test_scenarios_no_scnearios">No Open scenarios currently available. Check back later or pull to refresh.</string>
+
+    <string name="playback_staus_played">Played</string>
+    <string name="playback_status_pending">Done.</string>
+
+    <string name="playback_play">Play</string>
+    <string name="playback_pause">Pause</string>
+    <string name="playback_playing_time">%1$s</string>
+    <string name="playback_playing_status">Playing %1$s</string>
+
+    <string name="downloading_file">Downloading Audio files - Please wait</string>
+    <string name="download_que_pending">Pending</string>
+    <string name="download_que_downloading">Downloading</string>
+    <string name="download_que_downloaded">Downloaded</string>
+    <string name="download_que_progress">Progress %1$d\%</string>
+
+</resources>
